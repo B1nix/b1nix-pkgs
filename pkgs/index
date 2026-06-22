@@ -19,3 +19,8 @@ gclock 1.0 x86_64 2070343255b5dd0a4db97790bfdd6fa5f0afcc520e132fe18c6ce3530c9913
 gterm 1.0 x86_64 15498fe6ba61bd8922927191814e302b75d4c0089488fbb3f08ee94806edcdf2 https://cdn.jsdelivr.net/gh/B1nix/b1nix-pkgs@main/pkgs/gterm-1.0-x86_64.tar.gz
 gdesktop 1.0 x86_64 d60ae779538d5cfce39c454998074a886a96de97a76c94af2440486d99ba2316 https://cdn.jsdelivr.net/gh/B1nix/b1nix-pkgs@main/pkgs/gdesktop-1.0-x86_64.tar.gz
 gabout 1.0 x86_64 a86cb1c9f1463c7d423697dd2a5e50a825ff6b231fbcaa141e6f5956373cd627 https://cdn.jsdelivr.net/gh/B1nix/b1nix-pkgs@main/pkgs/gabout-1.0-x86_64.tar.gz
+curl 8.20.0 x86_64 4b4a7bd2d78544ab8c341b5bd6f19fb06fdd97171755df69ef79803c600a9f96 https://cdn.jsdelivr.net/gh/B1nix/b1nix-pkgs@main/pkgs/curl-8.20.0-x86_64.tar.gz
+wget 1.21.4 x86_64 71761772380bec5133350781968435e1b004b9e0042b5a15ab22a474e797bc43 https://cdn.jsdelivr.net/gh/B1nix/b1nix-pkgs@main/pkgs/wget-1.21.4-x86_64.tar.gz
+dropbear 2022.83 x86_64 e5b502f3e1b4b92428920e0bb535737349ef6acb6407523a9999d30d22883e17 https://cdn.jsdelivr.net/gh/B1nix/b1nix-pkgs@main/pkgs/dropbear-2022.83-x86_64.tar.gz
+make 3.82 x86_64 3aa8ea459fc1a67dc29a13060284dc00c61461de8f004237a7ea86d844e6e4c0 https://cdn.jsdelivr.net/gh/B1nix/b1nix-pkgs@main/pkgs/make-3.82-x86_64.tar.gz
+netsurf 3.11 x86_64 6bf92fb0a5940f89cd59dfdac4bb773bd0565956fb00b9607a4341b927a20011 https://cdn.jsdelivr.net/gh/B1nix/b1nix-pkgs@main/pkgs/netsurf-3.11-x86_64.tar.gz
