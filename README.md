@@ -8,7 +8,8 @@ files over the [jsDelivr](https://www.jsdelivr.com/) CDN — no server to run.
 ```
 pkgs/
   index          # text index of available packages (see its header for the format)
-  *.tar.gz       # package tarballs, extracted into / on the target
+  x86_64/        # x86_64 package tarballs
+  i686/          # 32-bit x86 package tarballs
 ```
 
 ## How it's used
